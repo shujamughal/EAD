@@ -1,0 +1,13 @@
+C:\Users\shuja\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.exe
+C:\Users\shuja\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.deps.json
+C:\Users\shuja\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.runtimeconfig.json
+C:\Users\shuja\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.runtimeconfig.dev.json
+C:\Users\shuja\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.dll
+C:\Users\shuja\source\repos\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.pdb
+C:\Users\shuja\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.csprojAssemblyReference.cache
+C:\Users\shuja\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.AssemblyInfoInputs.cache
+C:\Users\shuja\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.AssemblyInfo.cs
+C:\Users\shuja\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.csproj.CoreCompileInputs.cache
+C:\Users\shuja\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.dll
+C:\Users\shuja\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.pdb
+C:\Users\shuja\source\repos\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.genruntimeconfig.cache

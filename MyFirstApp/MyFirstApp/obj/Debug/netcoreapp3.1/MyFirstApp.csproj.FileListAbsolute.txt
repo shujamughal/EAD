@@ -1,0 +1,13 @@
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.exe
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.deps.json
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.json
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.dev.json
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.dll
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.pdb
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfo.cs
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.dll
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.pdb
+C:\Users\shuja\Desktop\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.genruntimeconfig.cache
