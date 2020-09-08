@@ -1,0 +1,13 @@
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\bin\Debug\netcoreapp3.1\EAD_3.exe
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\bin\Debug\netcoreapp3.1\EAD_3.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\bin\Debug\netcoreapp3.1\EAD_3.runtimeconfig.json
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\bin\Debug\netcoreapp3.1\EAD_3.runtimeconfig.dev.json
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\bin\Debug\netcoreapp3.1\EAD_3.dll
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\bin\Debug\netcoreapp3.1\EAD_3.pdb
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\obj\Debug\netcoreapp3.1\EAD_3.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\obj\Debug\netcoreapp3.1\EAD_3.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\obj\Debug\netcoreapp3.1\EAD_3.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\obj\Debug\netcoreapp3.1\EAD_3.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\obj\Debug\netcoreapp3.1\EAD_3.dll
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\obj\Debug\netcoreapp3.1\EAD_3.pdb
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec3\EAD_3\obj\Debug\netcoreapp3.1\EAD_3.genruntimeconfig.cache
