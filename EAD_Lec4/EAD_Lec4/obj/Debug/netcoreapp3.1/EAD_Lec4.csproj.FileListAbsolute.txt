@@ -1,0 +1,13 @@
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\bin\Debug\netcoreapp3.1\EAD_Lec4.exe
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\bin\Debug\netcoreapp3.1\EAD_Lec4.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\bin\Debug\netcoreapp3.1\EAD_Lec4.runtimeconfig.json
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\bin\Debug\netcoreapp3.1\EAD_Lec4.runtimeconfig.dev.json
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\bin\Debug\netcoreapp3.1\EAD_Lec4.dll
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\bin\Debug\netcoreapp3.1\EAD_Lec4.pdb
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\obj\Debug\netcoreapp3.1\EAD_Lec4.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\obj\Debug\netcoreapp3.1\EAD_Lec4.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\obj\Debug\netcoreapp3.1\EAD_Lec4.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\obj\Debug\netcoreapp3.1\EAD_Lec4.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\obj\Debug\netcoreapp3.1\EAD_Lec4.dll
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\obj\Debug\netcoreapp3.1\EAD_Lec4.pdb
+C:\Users\shuja\Documents\GitHub\EAD\EAD_Lec4\EAD_Lec4\obj\Debug\netcoreapp3.1\EAD_Lec4.genruntimeconfig.cache
