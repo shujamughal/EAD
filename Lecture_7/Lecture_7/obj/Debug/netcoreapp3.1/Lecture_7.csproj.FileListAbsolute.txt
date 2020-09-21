@@ -1,0 +1,13 @@
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\bin\Debug\netcoreapp3.1\Lecture_7.exe
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\bin\Debug\netcoreapp3.1\Lecture_7.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\bin\Debug\netcoreapp3.1\Lecture_7.runtimeconfig.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\bin\Debug\netcoreapp3.1\Lecture_7.runtimeconfig.dev.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\bin\Debug\netcoreapp3.1\Lecture_7.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\bin\Debug\netcoreapp3.1\Lecture_7.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\obj\Debug\netcoreapp3.1\Lecture_7.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\obj\Debug\netcoreapp3.1\Lecture_7.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\obj\Debug\netcoreapp3.1\Lecture_7.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\obj\Debug\netcoreapp3.1\Lecture_7.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\obj\Debug\netcoreapp3.1\Lecture_7.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\obj\Debug\netcoreapp3.1\Lecture_7.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture_7\Lecture_7\obj\Debug\netcoreapp3.1\Lecture_7.genruntimeconfig.cache

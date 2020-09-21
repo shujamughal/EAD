@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "EAD_Lecture_6/1.0.0": {
+      "Lecture_7/1.0.0": {
         "runtime": {
-          "EAD_Lecture_6.dll": {}
+          "Lecture_7.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EAD_Lecture_6/1.0.0": {
+    "Lecture_7/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

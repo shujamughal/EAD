@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\EAD_Lecture_6\\EAD_Lecture_6\\EAD_Lecture_6.csproj",
-      "projectName": "EAD_Lecture_6",
-      "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\EAD_Lecture_6\\EAD_Lecture_6\\EAD_Lecture_6.csproj",
+      "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture_7\\Lecture_7\\Lecture_7.csproj",
+      "projectName": "Lecture_7",
+      "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture_7\\Lecture_7\\Lecture_7.csproj",
       "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\EAD_Lecture_6\\EAD_Lecture_6\\obj\\",
+      "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture_7\\Lecture_7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",
