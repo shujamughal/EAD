@@ -1,0 +1,4 @@
+C:\Users\shuja\Documents\GitHub\EAD\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture8\Lecture8\obj\Debug\netcoreapp3.1\Lecture8.csproj.CoreCompileInputs.cache
