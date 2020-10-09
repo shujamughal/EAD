@@ -1,0 +1,13 @@
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\bin\Debug\netcoreapp3.1\Lecture14.exe
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\bin\Debug\netcoreapp3.1\Lecture14.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\bin\Debug\netcoreapp3.1\Lecture14.runtimeconfig.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\bin\Debug\netcoreapp3.1\Lecture14.runtimeconfig.dev.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\bin\Debug\netcoreapp3.1\Lecture14.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\bin\Debug\netcoreapp3.1\Lecture14.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\obj\Debug\netcoreapp3.1\Lecture14.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\obj\Debug\netcoreapp3.1\Lecture14.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\obj\Debug\netcoreapp3.1\Lecture14.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\obj\Debug\netcoreapp3.1\Lecture14.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\obj\Debug\netcoreapp3.1\Lecture14.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\obj\Debug\netcoreapp3.1\Lecture14.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture14\Lecture14\obj\Debug\netcoreapp3.1\Lecture14.genruntimeconfig.cache
