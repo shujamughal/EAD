@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture14\\Lecture14\\Lecture14.csproj": {}
+    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture16\\Lecture16\\Lecture16.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture14\\Lecture14\\Lecture14.csproj": {
+    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture16\\Lecture16\\Lecture16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture14\\Lecture14\\Lecture14.csproj",
-        "projectName": "Lecture14",
-        "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture14\\Lecture14\\Lecture14.csproj",
+        "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture16\\Lecture16\\Lecture16.csproj",
+        "projectName": "Lecture16",
+        "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture16\\Lecture16\\Lecture16.csproj",
         "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture14\\Lecture14\\obj\\",
+        "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture16\\Lecture16\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",
