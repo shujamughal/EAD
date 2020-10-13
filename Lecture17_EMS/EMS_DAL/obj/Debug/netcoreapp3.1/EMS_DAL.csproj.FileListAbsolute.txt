@@ -1,0 +1,12 @@
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\bin\Debug\netcoreapp3.1\EMS_DAL.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\bin\Debug\netcoreapp3.1\EMS_DAL.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\bin\Debug\netcoreapp3.1\EMS_DAL.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\obj\Debug\netcoreapp3.1\EMS_DAL.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\obj\Debug\netcoreapp3.1\EMS_DAL.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\obj\Debug\netcoreapp3.1\EMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\obj\Debug\netcoreapp3.1\EMS_DAL.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\obj\Debug\netcoreapp3.1\EMS_DAL.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\bin\Debug\netcoreapp3.1\EMS_BO.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\bin\Debug\netcoreapp3.1\EMS_BO.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\obj\Debug\netcoreapp3.1\EMS_DAL.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_DAL\obj\Debug\netcoreapp3.1\EMS_DAL.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_View.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_View.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_View.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\obj\Debug\netcoreapp3.1\EMS_View.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\obj\Debug\netcoreapp3.1\EMS_View.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\obj\Debug\netcoreapp3.1\EMS_View.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\obj\Debug\netcoreapp3.1\EMS_View.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\obj\Debug\netcoreapp3.1\EMS_View.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_BLL.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_BO.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_DAL.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_BLL.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_BO.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\bin\Debug\netcoreapp3.1\EMS_DAL.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\obj\Debug\netcoreapp3.1\EMS_View.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_View\obj\Debug\netcoreapp3.1\EMS_View.csproj.CopyComplete

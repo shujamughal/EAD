@@ -1,0 +1,8 @@
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_BO\bin\Debug\netcoreapp3.1\EMS_BO.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_BO\bin\Debug\netcoreapp3.1\EMS_BO.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_BO\bin\Debug\netcoreapp3.1\EMS_BO.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_BO\obj\Debug\netcoreapp3.1\EMS_BO.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_BO\obj\Debug\netcoreapp3.1\EMS_BO.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_BO\obj\Debug\netcoreapp3.1\EMS_BO.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_BO\obj\Debug\netcoreapp3.1\EMS_BO.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture17_EMS\EMS_BO\obj\Debug\netcoreapp3.1\EMS_BO.pdb

@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EMS_BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "EMS_BO": "1.0.0",
+          "EMS_DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EMS_BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMS_BLL.dll": {}
+        }
+      },
+      "EMS_BO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/EMS_BO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMS_BO.dll": {}
+        }
+      },
+      "EMS_DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "EMS_BO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EMS_DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMS_DAL.dll": {}
+        }
+      },
+      "EMS_View/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "EMS_BLL": "1.0.0",
+          "EMS_BO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EMS_View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EMS_View.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMS_BLL/1.0.0": {
+      "type": "project",
+      "path": "../EMS_BLL/EMS_BLL.csproj",
+      "msbuildProject": "../EMS_BLL/EMS_BLL.csproj"
+    },
+    "EMS_BO/1.0.0": {
+      "type": "project",
+      "path": "../EMS_BO/EMS_BO.csproj",
+      "msbuildProject": "../EMS_BO/EMS_BO.csproj"
+    },
+    "EMS_DAL/1.0.0": {
+      "type": "project",
+      "path": "../EMS_DAL/EMS_DAL.csproj",
+      "msbuildProject": "../EMS_DAL/EMS_DAL.csproj"
+    },
+    "EMS_View/1.0.0": {
+      "type": "project",
+      "path": "../EMS_View/EMS_View.csproj",
+      "msbuildProject": "../EMS_View/EMS_View.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EMS_View >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\shuja\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture17_EMS\\Lecture17_EMS\\Lecture17_EMS.csproj",
+      "projectName": "Lecture17_EMS",
+      "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture17_EMS\\Lecture17_EMS\\Lecture17_EMS.csproj",
+      "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture17_EMS\\Lecture17_EMS\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture17_EMS\\EMS_View\\EMS_View.csproj": {
+              "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture17_EMS\\EMS_View\\EMS_View.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EMS_BLL\EMS_BLL.csproj" />
+    <ProjectReference Include="..\EMS_BO\EMS_BO.csproj" />
+  </ItemGroup>
+
+
+</Project>
