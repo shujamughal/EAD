@@ -8,7 +8,7 @@ namespace EMS_DAL
 {
     public class BaseDAL
     {
-        public void Save(string text, string fileName)
+        internal void Save(string text, string fileName)
         {
             string filePath = Path.Combine(Environment.CurrentDirectory,
                 fileName);
@@ -18,7 +18,20 @@ namespace EMS_DAL
         
         }
 
-       
+        internal List<string> Read(string fileName) {
+
+            List<string> list = new List<string>();
+            string filePath = Path.Combine(Environment.CurrentDirectory,
+                fileName);
+            StreamReader sr = new StreamReader(filePath);
+            string line = String.Empty;
+            while ((line = sr.ReadLine()) != null) {
+
+                list.Add(line);
+            
+            }
+            return list;
+        }
 
     }
 }

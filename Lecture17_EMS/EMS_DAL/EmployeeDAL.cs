@@ -13,6 +13,22 @@ namespace EMS_DAL
             Save(text,"EmployeeData.csv");
         }
 
+        public List<EmployeeBO> ReadEmployee() {
+            List<String> stringList = Read("EmployeeData.csv");
+            List<EmployeeBO> empList = new List<EmployeeBO>();
+            foreach (string s in stringList) {
+
+                string[] data = s.Split(",");
+                EmployeeBO e = new EmployeeBO();
+                e.Name = data[0];
+                e.Age = System.Convert.ToInt32( data[1]);
+                e.Salary =System.Convert.ToDecimal( data[2]);
+                empList.Add(e);
+            }
+
+            return empList;
+        
+        }
         
         
         

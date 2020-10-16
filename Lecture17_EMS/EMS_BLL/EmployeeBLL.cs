@@ -25,5 +25,11 @@ namespace EMS_BLL
             EmployeeDAL dal = new EmployeeDAL();
             dal.SaveEmployee(bo);
         }
+
+        public List<EmployeeBO> ReadEmployee() {
+            EmployeeDAL dal = new EmployeeDAL();
+            return dal.ReadEmployee();
+
+        }
     }
 }

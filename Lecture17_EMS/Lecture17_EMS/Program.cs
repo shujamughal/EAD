@@ -8,7 +8,9 @@ namespace Lecture17_EMS
         {
             Console.WriteLine("--Welcome to Employee Management System--");
             EmployeeView view = new EmployeeView();
-            view.GetInput();
+            //view.GetInput();
+            view.Display();
+            
             
         }
     }
