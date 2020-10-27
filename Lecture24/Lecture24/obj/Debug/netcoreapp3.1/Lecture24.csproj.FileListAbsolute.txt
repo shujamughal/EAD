@@ -1,0 +1,13 @@
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\bin\Debug\netcoreapp3.1\Lecture24.exe
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\bin\Debug\netcoreapp3.1\Lecture24.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\bin\Debug\netcoreapp3.1\Lecture24.runtimeconfig.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\bin\Debug\netcoreapp3.1\Lecture24.runtimeconfig.dev.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\bin\Debug\netcoreapp3.1\Lecture24.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\bin\Debug\netcoreapp3.1\Lecture24.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\obj\Debug\netcoreapp3.1\Lecture24.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\obj\Debug\netcoreapp3.1\Lecture24.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\obj\Debug\netcoreapp3.1\Lecture24.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\obj\Debug\netcoreapp3.1\Lecture24.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\obj\Debug\netcoreapp3.1\Lecture24.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\obj\Debug\netcoreapp3.1\Lecture24.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture24\Lecture24\obj\Debug\netcoreapp3.1\Lecture24.genruntimeconfig.cache
