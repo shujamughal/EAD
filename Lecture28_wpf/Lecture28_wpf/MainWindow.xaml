@@ -1,0 +1,27 @@
+﻿<Window x:Class="Lecture28_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture28_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel LastChildFill="True">
+        
+        <Menu DockPanel.Dock="Top" FontSize="18">
+            <MenuItem Header="File">
+                <MenuItem Header="New" Click="MenuItem_Click"></MenuItem>
+                <MenuItem Header="Open"></MenuItem>
+                <MenuItem Header="Close"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Edit"></MenuItem>
+            <MenuItem Header="View"></MenuItem>
+            
+        </Menu>
+        <Label  HorizontalContentAlignment="Center" DockPanel.Dock="Top" Content="--Point of Sale System--" Background="#FFC33F3F" FontSize="24"></Label>
+        <Label  HorizontalContentAlignment="Center" DockPanel.Dock="Bottom" Content="status bar" Background="#FFC33F3F" FontSize="24"></Label>
+        <Label  HorizontalContentAlignment="Center" DockPanel.Dock="Left" Content="Left bar" Background="#FFC33F3F" FontSize="24"></Label>
+        <Label  HorizontalContentAlignment="Center" DockPanel.Dock="Right" Content="Right bar" Background="#FFC33F3F" FontSize="24"></Label>
+        <Label  HorizontalContentAlignment="Center"  Content="Center" Background="#FFC33F3F" FontSize="24"></Label>
+    </DockPanel>
+</Window>
