@@ -1,0 +1,16 @@
+﻿<Window x:Class="Lecture30_wpf_databinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture30_wpf_databinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBox FontSize="50" Name="txtSource"></TextBox>
+        <WrapPanel>
+        <TextBlock Text="Value" FontSize="50"></TextBlock>
+        <TextBox Width="400"  FontSize="50" Name="txtTarget"></TextBox>
+        </WrapPanel>
+    </StackPanel>
+</Window>
