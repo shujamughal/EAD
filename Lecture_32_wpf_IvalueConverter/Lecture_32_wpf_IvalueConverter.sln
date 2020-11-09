@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_32_wpf_IvalueConverter", "Lecture_32_wpf_IvalueConverter\Lecture_32_wpf_IvalueConverter.csproj", "{89B0A5D7-967E-45B5-AB34-A5A416C56E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B0A5D7-967E-45B5-AB34-A5A416C56E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B0A5D7-967E-45B5-AB34-A5A416C56E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B0A5D7-967E-45B5-AB34-A5A416C56E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B0A5D7-967E-45B5-AB34-A5A416C56E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BB75980-8F78-4FB8-B847-C7B323FD2A3B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lecture_32_wpf_IvalueConverter/1.0.0": {
+        "runtime": {
+          "Lecture_32_wpf_IvalueConverter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture_32_wpf_IvalueConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
