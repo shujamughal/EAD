@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lecture35_wpf_datacontext/1.0.0": {
+        "runtime": {
+          "Lecture35_wpf_datacontext.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture35_wpf_datacontext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿<Window x:Class="Lecture35_wpf_datacontext.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture35_wpf_datacontext"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <WrapPanel>
+        <TextBlock  Text="Student Name:  " FontSize="50" ></TextBlock>
+        <TextBlock Text="{Binding Path=Name}" FontSize="50" MinWidth="200" ></TextBlock>
+        </WrapPanel>
+        <WrapPanel>
+            <TextBlock Text="Student Age:  " FontSize="50" ></TextBlock>
+            <TextBlock Text="{Binding Age}" FontSize="50" MinWidth="200" ></TextBlock>
+        </WrapPanel>
+        <WrapPanel>
+            <TextBlock Text="Student CGPA:  " FontSize="50" ></TextBlock>
+            <TextBlock  Text="{Binding CGPA}" FontSize="50" MinWidth="200" ></TextBlock>
+        </WrapPanel>
+    </StackPanel>
+</Window>
