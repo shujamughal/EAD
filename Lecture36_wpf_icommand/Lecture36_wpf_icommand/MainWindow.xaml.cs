@@ -26,6 +26,6 @@ namespace Lecture36_wpf_icommand
             this.DataContext = new MessageViewModel();
         }
 
-      
+        
     }
 }

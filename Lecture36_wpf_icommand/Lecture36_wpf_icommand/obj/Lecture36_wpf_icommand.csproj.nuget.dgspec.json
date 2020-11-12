@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shuja\\source\\repos\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand.csproj": {}
+    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shuja\\source\\repos\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand.csproj": {
+    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shuja\\source\\repos\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand.csproj",
+        "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand.csproj",
         "projectName": "Lecture36_wpf_icommand",
-        "projectPath": "C:\\Users\\shuja\\source\\repos\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand.csproj",
+        "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand.csproj",
         "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shuja\\source\\repos\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\obj\\",
+        "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture36_wpf_icommand\\Lecture36_wpf_icommand\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",

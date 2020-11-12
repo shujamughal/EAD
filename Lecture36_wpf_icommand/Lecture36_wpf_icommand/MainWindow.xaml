@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel >
-        <TextBox  FontSize="50" Text="{Binding TextMessage, Mode=OneWayToSource,UpdateSourceTrigger=PropertyChanged}"></TextBox>
-        <Button Command="{Binding DisplayMessageCommand}" FontSize="50" Content="Show Message"  ></Button>
+        <TextBox Text="{Binding MessageText, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"  FontSize="50"   ></TextBox>
+        <Button Command="{Binding cmd}" FontSize="50" Content="Show Message"  ></Button>
     </StackPanel>
 </Window>

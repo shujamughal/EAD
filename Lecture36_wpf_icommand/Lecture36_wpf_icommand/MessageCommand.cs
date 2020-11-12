@@ -8,22 +8,19 @@ namespace Lecture36_wpf_icommand
     class MessageCommand : ICommand
     {
         public event EventHandler CanExecuteChanged;
-
-        private Action methodExected;
-
-        public MessageCommand(Action method)
+        private MessageViewModel messagevm;
+        public MessageCommand(MessageViewModel vm)
         {
-            this.methodExected = method;
+            this.messagevm = vm;
         }
-
         public bool CanExecute(object parameter)
         {
-            return true;
+            return false;
         }
 
         public void Execute(object parameter)
         {
-            methodExected.Invoke();
+            messagevm.DisplayMessage();
         }
     }
 }

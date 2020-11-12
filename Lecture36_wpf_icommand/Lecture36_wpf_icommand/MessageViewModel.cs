@@ -8,16 +8,15 @@ namespace Lecture36_wpf_icommand
 {
     class MessageViewModel
     {
-        public string TextMessage { get; set; }
-        public ICommand DisplayMessageCommand { get; set; }
-
+        public string MessageText { get; set; }
+        public MessageCommand cmd { get; set; }
         public MessageViewModel()
         {
-            DisplayMessageCommand = new MessageCommand(DisplayMessage);
+            cmd = new MessageCommand(this);
         }
 
-        private void DisplayMessage() {
-            MessageBox.Show(TextMessage);
+        public void DisplayMessage() {
+            MessageBox.Show(MessageText);
         }
     }
 }
