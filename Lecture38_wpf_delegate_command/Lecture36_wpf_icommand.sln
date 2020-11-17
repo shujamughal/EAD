@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture36_wpf_icommand", "Lecture36_wpf_icommand\Lecture36_wpf_icommand.csproj", "{0DFE3C3D-9491-4913-B947-8AED5ECF9E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFE3C3D-9491-4913-B947-8AED5ECF9E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFE3C3D-9491-4913-B947-8AED5ECF9E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFE3C3D-9491-4913-B947-8AED5ECF9E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFE3C3D-9491-4913-B947-8AED5ECF9E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40A2C3E-97D3-469B-8332-55F73DE54CF7}
+	EndGlobalSection
+EndGlobal
