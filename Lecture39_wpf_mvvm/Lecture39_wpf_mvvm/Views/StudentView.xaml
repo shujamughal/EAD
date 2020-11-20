@@ -29,9 +29,9 @@
         <TextBlock Text="ID" Grid.Row="1" Grid.Column="0" FontSize="30"></TextBlock>
         <TextBlock Text="Name" Grid.Row="2" Grid.Column="0" FontSize="30"></TextBlock>
         <TextBlock Text="Age" Grid.Row="3" Grid.Column="0" FontSize="30"></TextBlock>
-        <TextBox Text="{Binding NewStudent.ID}" Grid.Row="1" Grid.Column="1" FontSize="20"></TextBox>
-        <TextBox Text="{Binding NewStudent.Name}" Grid.Row="2" Grid.Column="1" FontSize="20"></TextBox>
-        <TextBox Text="{Binding NewStudent.Age}" Grid.Row="3" Grid.Column="1" FontSize="20"></TextBox>
+        <TextBox Text="{Binding ID}" Grid.Row="1" Grid.Column="1" FontSize="20"></TextBox>
+        <TextBox Text="{Binding Name}" Grid.Row="2" Grid.Column="1" FontSize="20"></TextBox>
+        <TextBox Text="{Binding Age}" Grid.Row="3" Grid.Column="1" FontSize="20"></TextBox>
         <Button Command="{Binding AddCommand}" Content="Add" Grid.Column="1" Grid.Row="4" FontSize="20"
                
                 ></Button>

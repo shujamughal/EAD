@@ -9,26 +9,32 @@ namespace Lecture39_wpf_mvvm.ViewModels
 {
     class StudentViewModel
     {
-        public Student NewStudent { get; set; }
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
         public ObservableCollection<Student>  Students   { get; set; }
         public DelegateCommand AddCommand { get; set; }
         StudentService studentService;
         public StudentViewModel()
         {
             studentService = new StudentService();
-            NewStudent = new Student();
+            
             Students = studentService.GetAllStudents();
             AddCommand = new DelegateCommand(Add, canAdd);
         }
 
         public void Add(object o) {
-            studentService.AddStudent(NewStudent);
+            Student s = new Student();
+            s.ID = this.ID;
+            s.Name = this.Name;
+            s.Age = this.Age;
+            studentService.AddStudent(s);
         }
         public bool canAdd(object o) {
 
-            if (string.IsNullOrEmpty(NewStudent.ID.ToString()) ||
-               string.IsNullOrEmpty(NewStudent.Name) ||
-               string.IsNullOrEmpty(NewStudent.Age.ToString()))
+            if (string.IsNullOrEmpty(ID.ToString()) ||
+               string.IsNullOrEmpty(Name) ||
+               string.IsNullOrEmpty(Age.ToString()))
             {
                 return false;
             }
