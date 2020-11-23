@@ -1,0 +1,16 @@
+﻿<Application x:Class="Lecture41_wpf_multiview_mvvm.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lecture41_wpf_multiview_mvvm"
+             xmlns:views="clr-namespace:Lecture41_wpf_multiview_mvvm.Views"
+             xmlns:viewmodels="clr-namespace:Lecture41_wpf_multiview_mvvm.ViewModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type viewmodels:StudentViewModel}">
+            <views:StudentView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:CourseViewModel}">
+            <views:CourseView/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>
