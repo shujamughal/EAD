@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lecture41_wpf_mvvm_multiview/1.0.0": {
+        "runtime": {
+          "Lecture41_wpf_mvvm_multiview.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture41_wpf_mvvm_multiview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿<Window x:Class="Lecture41_wpf_mvvm_multiview.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture41_wpf_mvvm_multiview"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions></Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Menu FontSize="20" >
+            <MenuItem Header="File" >
+                <MenuItem Header="Student"
+                          Command="{Binding UpdateViewCommand}" 
+                    CommandParameter="Student"
+                          ></MenuItem>
+                <MenuItem Header="Course"
+                          Command="{Binding UpdateViewCommand}"
+                CommandParameter="Course"
+                          ></MenuItem>
+                
+            </MenuItem>
+        </Menu>
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="1">
+            <Button Command="{Binding UpdateViewCommand}" 
+                    CommandParameter="Home"
+                    Margin="20" Content="Home" FontSize="20" ></Button>
+            <Button Command="{Binding UpdateViewCommand}" 
+                    CommandParameter="Student"
+                    Margin="20" Content="Student" FontSize="20" ></Button>
+            <Button Command="{Binding UpdateViewCommand}"
+                CommandParameter="Course"
+                Margin="20" Content="Course" FontSize="20" ></Button>
+        </StackPanel>
+        <ContentControl Grid.Row="2" Content="{Binding SelectedViewModel}" ></ContentControl>
+    </Grid>
+</Window>
