@@ -1,0 +1,27 @@
+﻿<Application x:Class="Lecture42_WPF_Styles.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lecture42_WPF_Styles"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Background" Value="Yellow"></Setter>
+            <Setter Property="FontSize" Value="50"></Setter>
+        </Style>
+        <Style TargetType="TextBlock" x:Key="GreyTextBlock">
+            <Setter Property="Background" Value="Yellow"></Setter>
+            <Setter Property="FontSize" Value="50"></Setter>
+            <Setter Property="Foreground" Value="Gray"></Setter>
+        </Style>
+
+        <Style BasedOn="{StaticResource {x:Type TextBlock}}"
+               TargetType="TextBlock" x:Key="RedTextBlock">
+            <Setter Property="Foreground" Value="Red"></Setter>
+        </Style>
+
+        <Style BasedOn="{StaticResource RedTextBlock}" 
+               TargetType="TextBlock" x:Key="PurpleTextBlock">
+            <Setter Property="FontStyle" Value="Italic"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>
