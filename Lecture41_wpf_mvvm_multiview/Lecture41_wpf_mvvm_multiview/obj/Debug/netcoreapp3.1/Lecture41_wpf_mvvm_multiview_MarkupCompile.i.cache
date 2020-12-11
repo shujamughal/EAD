@@ -8,7 +8,7 @@ C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_mvvm_multiview\Lecture41_wpf_m
 Lecture41_wpf_mvvm_multiview
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_mvvm_multiview\Lecture41_wpf_mvvm_multiview\App.xaml
 4-550915126
 
@@ -16,5 +16,5 @@ C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_mvvm_multiview\Lecture41_wpf_m
 1921654412462
 MainWindow.xaml;Views\CourseView.xaml;Views\HomeView.xaml;Views\StudentView.xaml;
 
-True
+False
 

@@ -49,7 +49,7 @@ namespace Lecture41_wpf_mvvm_multiview {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.8.1.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.0.0")]
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
@@ -61,7 +61,7 @@ namespace Lecture41_wpf_mvvm_multiview {
             
             #line default
             #line hidden
-            System.Uri resourceLocater = new System.Uri("/Lecture41_wpf_mvvm_multiview;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Lecture41_wpf_mvvm_multiview;V1.0.0.0;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -75,7 +75,7 @@ namespace Lecture41_wpf_mvvm_multiview {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.8.1.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.0.0")]
         public static void Main() {
             Lecture41_wpf_mvvm_multiview.App app = new Lecture41_wpf_mvvm_multiview.App();
             app.InitializeComponent();
