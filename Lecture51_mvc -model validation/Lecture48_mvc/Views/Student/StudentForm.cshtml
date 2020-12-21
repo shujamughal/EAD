@@ -1,0 +1,38 @@
+﻿@using Lecture48_mvc.Models
+@model Student 
+<html>
+<head>
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+
+<body>
+    <h3> Add A New Student</h3>
+
+    <form method="post" action="/Student/StudentForm">
+        
+        <div asp-validation-summary="ModelOnly"></div>
+        <div>
+            <label asp-for="Name"></label><br>
+            <input asp-for="Name"><br>
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div>
+            <label asp-for="Age"></label><br>
+            <input asp-for="Age"><br>
+            <span asp-validation-for="Age"></span>
+        </div>
+        <div>
+            <label asp-for="CGPA"></label><br>
+            <input asp-for="CGPA"><br>
+            <span asp-validation-for="CGPA"></span>
+        </div>
+        <div>
+            <label asp-for="Semester"></label><br>
+            <input asp-for="Semester"><br>
+            <span asp-validation-for="Semester"></span>
+        </div>
+        <input type="submit" value="Save Student" />
+
+    </form>
+</body>
+</html>
