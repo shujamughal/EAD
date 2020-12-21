@@ -1,0 +1,30 @@
+﻿@using Lecture48_mvc.Models
+@model Student 
+<html>
+<head>
+
+</head>
+
+<body>
+    <h3> Add A New Student</h3>
+
+    <form method="post" action="/Student/StudentForm">
+        
+        <label asp-for="Name" ></label><br>
+        <input asp-for="Name"><br>
+
+        <label asp-for="Age"></label><br>
+        <input asp-for="Age"><br>
+
+        <label asp-for="CGPA"></label><br>
+        <input asp-for="CGPA"><br>
+
+        <label asp-for="Semester"></label><br>
+        <input asp-for="Semester"><br>
+
+
+        <input type="submit" value="Save Student" />
+
+    </form>
+</body>
+</html>
