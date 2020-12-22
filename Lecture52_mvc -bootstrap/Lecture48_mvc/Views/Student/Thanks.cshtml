@@ -1,0 +1,17 @@
+﻿@model Lecture48_mvc.Models.Student
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<div class="text-center">
+    <p>you entered following details</p>
+
+    <p> @Model.Name</p>
+    <p> @Model.Age</p>
+    <p> @Model.CGPA</p>
+    <p> @Model.Semester</p>
+
+    Click <a asp-action="ListStudents">here</a> to view all students
+
+</div>
