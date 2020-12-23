@@ -1,0 +1,34 @@
+﻿@using Lecture48_mvc.Models
+@model Student
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+<h5 class="bg-dark text-white text-center p-2" > Add A New Student</h5>
+
+<form method="post" action="/Student/StudentForm">
+
+    <div asp-validation-summary="ModelOnly"></div>
+    <div>
+        <label class="form-label" asp-for="Name"></label><br>
+        <input class="form-control" asp-for="Name"><br>
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label class="form-label" class="form-label" asp-for="Age"></label><br>
+        <input class="form-control" asp-for="Age"><br>
+        <span asp-validation-for="Age"></span>
+    </div>
+    <div>
+        <label class="form-label" asp-for="CGPA"></label><br>
+        <input class="form-control" asp-for="CGPA"><br>
+        <span asp-validation-for="CGPA"></span>
+    </div>
+    <div>
+        <label class="form-label" asp-for="Semester"></label><br>
+        <input class="form-control" asp-for="Semester"><br>
+        <span asp-validation-for="Semester"></span>
+    </div>
+    <input class="btn btn-dark" type="submit" value="Save Student" />
+
+</form>

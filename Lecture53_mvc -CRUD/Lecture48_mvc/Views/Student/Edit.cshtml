@@ -1,0 +1,39 @@
+﻿@model Lecture48_mvc.Models.Student
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<form method="post" asp-action="Edit">
+
+    <div asp-validation-summary="ModelOnly"></div>
+
+    <div>
+        <label class="form-label" asp-for="Id"></label><br>
+        <input class="form-control" asp-for="Id" readonly><br>
+        
+    </div>
+
+    <div>
+        <label class="form-label" asp-for="Name"></label><br>
+        <input class="form-control" asp-for="Name"><br>
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label class="form-label" class="form-label" asp-for="Age"></label><br>
+        <input class="form-control" asp-for="Age"><br>
+        <span asp-validation-for="Age"></span>
+    </div>
+    <div>
+        <label class="form-label" asp-for="CGPA"></label><br>
+        <input class="form-control" asp-for="CGPA"><br>
+        <span asp-validation-for="CGPA"></span>
+    </div>
+    <div>
+        <label class="form-label" asp-for="Semester"></label><br>
+        <input class="form-control" asp-for="Semester"><br>
+        <span asp-validation-for="Semester"></span>
+    </div>
+    <input class="btn btn-dark" type="submit" value="Save Student" />
+
+</form>
