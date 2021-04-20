@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "63_LINQ_Part2/1.0.0": {
+        "runtime": {
+          "63_LINQ_Part2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "63_LINQ_Part2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
