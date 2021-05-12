@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\63_LINQ_Part2\\63_LINQ_Part2\\63_LINQ_Part2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\63_LINQ_Part3\\63_LINQ_Part2\\63_LINQ_Part2.csproj",
       "projectName": "63_LINQ_Part2",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\63_LINQ_Part2\\63_LINQ_Part2\\63_LINQ_Part2.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\63_LINQ_Part3\\63_LINQ_Part2\\63_LINQ_Part2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\63_LINQ_Part2\\63_LINQ_Part2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\63_LINQ_Part3\\63_LINQ_Part2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
