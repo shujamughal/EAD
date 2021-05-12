@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\bin\Debug\net5.0\TaskRunExample.exe
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\bin\Debug\net5.0\TaskRunExample.deps.json
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\bin\Debug\net5.0\TaskRunExample.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\bin\Debug\net5.0\TaskRunExample.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\bin\Debug\net5.0\TaskRunExample.dll
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\bin\Debug\net5.0\ref\TaskRunExample.dll
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\bin\Debug\net5.0\TaskRunExample.pdb
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\TaskRunExample.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\TaskRunExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\TaskRunExample.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\TaskRunExample.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\TaskRunExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\TaskRunExample.dll
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\ref\TaskRunExample.dll
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\TaskRunExample.pdb
+C:\Users\Admin\Documents\GitHub\EAD\TaskRunExample\TaskRunExample\obj\Debug\net5.0\TaskRunExample.genruntimeconfig.cache

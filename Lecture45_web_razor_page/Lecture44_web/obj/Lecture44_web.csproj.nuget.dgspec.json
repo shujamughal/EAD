@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\Lecture44_web.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\Lecture44_web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\Lecture44_web.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\Lecture44_web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\Lecture44_web.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\Lecture44_web.csproj",
         "projectName": "Lecture44_web",
-        "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\Lecture44_web.csproj",
-        "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\Lecture44_web.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\Lecture45_web_razor_page\\Lecture44_web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -61,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

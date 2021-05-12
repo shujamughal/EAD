@@ -14,8 +14,8 @@
     
     <Grid  ShowGridLines="False" HorizontalAlignment="Center"  VerticalAlignment="Center">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition MinWidth="100" MaxWidth="200" ></ColumnDefinition>
-            <ColumnDefinition MinWidth="200" MaxWidth="400" ></ColumnDefinition>
+                <ColumnDefinition   Width="" ></ColumnDefinition>
+            <ColumnDefinition Width="15*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"></RowDefinition>

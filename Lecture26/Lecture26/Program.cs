@@ -34,10 +34,13 @@ namespace Lecture26
     //subscriber
     class Program
     {
+        static void MyHandler(object sender, MyEventArgs e) { 
+            Console.WriteLine($"object added by {sender.ToString()} and count :{e.Count}");
+        }
         static void Main(string[] args)
         {
             MyArrayList list = new MyArrayList();
-            list.Added += (object sender, MyEventArgs e) => Console.WriteLine($"object added by {sender.ToString()} and count :{e.Count}");
+            list.Added += MyHandler;
             list.Add(1);
             list.Add("1");
             list.Add("1234");

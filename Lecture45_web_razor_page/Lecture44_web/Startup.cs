@@ -36,7 +36,7 @@ namespace Lecture44_web
                  {
                      await context.Response.WriteAsync("AOA Pakistan...!");
                  });*/
-                endpoints.MapRazorPages();
+               // endpoints.MapRazorPages();
             });
         }
     }
