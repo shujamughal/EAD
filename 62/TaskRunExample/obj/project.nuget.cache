@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ArFPVZtQWMKCfnaYEDLcSjE77ZK7J+zHUhHTog59nYbXookNPLjpUdVCgwBc6PhrrWcmBNTqBb2AHdEb7EiBnw==",
+  "dgSpecHash": "i4pD5EmyyrzD5ZSqT6dltQW+TtLKGNVykM8uWc3m7g43i1YIEUAW1PMe4YHNTKN+PEFCU+R1tli68WcWAyEVqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\TaskRunExample\\TaskRunExample\\TaskRunExample.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Shuja\\Code Examples\\EAD\\62\\TaskRunExample\\TaskRunExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

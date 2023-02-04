@@ -1,0 +1,15 @@
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\bin\Debug\net6.0\SyncVsAsync_Lec60.exe
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\bin\Debug\net6.0\SyncVsAsync_Lec60.deps.json
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\bin\Debug\net6.0\SyncVsAsync_Lec60.runtimeconfig.json
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\bin\Debug\net6.0\SyncVsAsync_Lec60.dll
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\bin\Debug\net6.0\SyncVsAsync_Lec60.pdb
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\SyncVsAsync_Lec60.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\SyncVsAsync_Lec60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\SyncVsAsync_Lec60.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\SyncVsAsync_Lec60.AssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\SyncVsAsync_Lec60.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\SyncVsAsync_Lec60.dll
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\refint\SyncVsAsync_Lec60.dll
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\SyncVsAsync_Lec60.pdb
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\SyncVsAsync_Lec60.genruntimeconfig.cache
+C:\Shuja\Code Examples\EAD\60\SyncVsAsync_Lec60\obj\Debug\net6.0\ref\SyncVsAsync_Lec60.dll

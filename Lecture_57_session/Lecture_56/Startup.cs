@@ -39,9 +39,8 @@ namespace Lecture_56
                 app.UseExceptionHandler("/Home/Error");
             }
             app.UseStaticFiles();
-            app.UseSession();
             app.UseRouting();
-
+            app.UseSession();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

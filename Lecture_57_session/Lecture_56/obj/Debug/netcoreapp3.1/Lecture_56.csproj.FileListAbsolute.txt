@@ -72,3 +72,40 @@ C:\Users\shuja\Documents\GitHub\EAD\Lecture_57_session\Lecture_56\obj\Debug\netc
 C:\Users\shuja\Documents\GitHub\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.pdb
 C:\Users\shuja\Documents\GitHub\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.genruntimeconfig.cache
 C:\Users\shuja\Documents\GitHub\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.csproj.CopyComplete
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.StaticWebAssets.xml
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.exe
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.deps.json
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.runtimeconfig.json
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.runtimeconfig.dev.json
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.dll
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.pdb
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.Views.dll
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\bin\Debug\netcoreapp3.1\Lecture_56.Views.pdb
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.AssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.RazorAssemblyInfo.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.RazorAssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\staticwebassets\Lecture_56.StaticWebAssets.Manifest.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.TagHelpers.input.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.TagHelpers.output.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.RazorCoreGenerate.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.RazorTargetAssemblyInfo.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.RazorTargetAssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.Views.pdb
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.dll
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.pdb
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.genruntimeconfig.cache
+C:\Shuja\Code Examples\EAD\Lecture_57_session\Lecture_56\obj\Debug\netcoreapp3.1\Lecture_56.csproj.CopyComplete

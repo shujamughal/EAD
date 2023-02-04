@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FileUploadingExampleMVC6.props" />
+</Project>

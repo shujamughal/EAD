@@ -28,8 +28,8 @@ namespace WebApplication1.Controllers
 
         [HttpGet]
         //[HttpGet("{id}")]
-        [Route("find/{id}")]
-        public Student GetById(int id)
+        [Route("find/{a}")]
+        public Student GetById(int a)
         {
             return repo.GetStudentById(id);
         }
@@ -42,15 +42,15 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPut("{id}")]
+        [Route("update")]
         public void Update(Student s, int id)
         {
             //you need to call a method to update student based on id
         }
 
         [HttpDelete]
-        [Route("delStd/{id}")]
-
-        public void DeleteStudent(int id)
+        [Route("delete/{id}")]
+          public void DeleteStudent(int id)
         {
             //you need to call a method to delete student based on id
         }

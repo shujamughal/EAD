@@ -31,3 +31,41 @@ C:\Users\shuja\Documents\GitHub\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcor
 C:\Users\shuja\Documents\GitHub\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
 C:\Users\shuja\Documents\GitHub\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\shuja\Documents\GitHub\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Student.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.dll
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.pdb
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.StaticWebAssets.xml
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.exe
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.deps.json
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.runtimeconfig.json
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.runtimeconfig.dev.json
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.dll
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.pdb
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.Views.dll
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\bin\Debug\netcoreapp3.1\Lecture48_mvc.Views.pdb
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.AssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.RazorAssemblyInfo.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.RazorAssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\staticwebassets\Lecture48_mvc.StaticWebAssets.Manifest.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\staticwebassets\Lecture48_mvc.StaticWebAssets.Pack.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Lecture48_mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Lecture48_mvc.props
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Lecture48_mvc.props
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Lecture48_mvc.props
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.TagHelpers.input.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.TagHelpers.output.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.RazorCoreGenerate.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Student.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.RazorTargetAssemblyInfo.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.RazorTargetAssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.Views.pdb
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.genruntimeconfig.cache
+C:\Shuja\Code Examples\EAD\Lecture48_mvc\Lecture48_mvc\obj\Debug\netcoreapp3.1\Lecture48_mvc.csproj.CopyComplete

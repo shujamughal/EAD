@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "2FBJN7Ub09D88DYHDQVpccDsKDa5tkhb+EsQgLx0l5tsSz+Bd6+DdTgsqerJozRMqQw018Y5FcC1WEEKeF67sQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\EAD\\59_webservice\\WebApplication1\\WebApplication1.csproj",
+  "dgSpecHash": "52A/93+tg6324amPATwDeQPstWX1wr6jEq0sdKVH49TB6Uczkaml1qqBweeAsj+4pEhGrVLpGyxYV2FRVgDwaw==",
+  "success": false,
+  "projectFilePath": "C:\\Shuja\\Code Examples\\EAD\\59_webservice\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
+    }
+  ]
 }

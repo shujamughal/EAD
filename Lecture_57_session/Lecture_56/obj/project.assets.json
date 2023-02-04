@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net6.0": {
       "Microsoft.AspNetCore.Cryptography.Internal/2.2.0": {
         "type": "package",
         "compile": {
@@ -1022,41 +1022,41 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net6.0": [
       "Microsoft.AspNetCore.Session >= 2.2.0"
     ]
   },
   "packageFolders": {
     "C:\\Users\\shuja\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture_57_session\\Lecture_56\\Lecture_56.csproj",
+      "projectUniqueName": "C:\\Shuja\\Code Examples\\EAD\\Lecture_57_session\\Lecture_56\\Lecture_56.csproj",
       "projectName": "Lecture_56",
-      "projectPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture_57_session\\Lecture_56\\Lecture_56.csproj",
+      "projectPath": "C:\\Shuja\\Code Examples\\EAD\\Lecture_57_session\\Lecture_56\\Lecture_56.csproj",
       "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture_57_session\\Lecture_56\\obj\\",
+      "outputPath": "C:\\Shuja\\Code Examples\\EAD\\Lecture_57_session\\Lecture_56\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -1067,8 +1067,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Session": {
             "target": "Package",
@@ -1093,7 +1093,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

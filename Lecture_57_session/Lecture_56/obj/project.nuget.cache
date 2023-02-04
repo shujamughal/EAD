@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mw+DtqzTNIHVwoy33JMElITv+KfsBQC9+HnxN4JIgZgBRVXcV9VK0PX32w/S6EWsn0979gjIjQR2iuU+Q1bKUg==",
+  "dgSpecHash": "Wj1gFtn9lL1NqYBu4jkzBgOkPrehtunfKcWeqm3WW+tJRyo+J/3UCcCEbDXS4H/rIC21TS+uHtgtK6xLqqX+cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shuja\\Documents\\GitHub\\EAD\\Lecture_57_session\\Lecture_56\\Lecture_56.csproj",
+  "projectFilePath": "C:\\Shuja\\Code Examples\\EAD\\Lecture_57_session\\Lecture_56\\Lecture_56.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shuja\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.2.0\\microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg.sha512",
     "C:\\Users\\shuja\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",

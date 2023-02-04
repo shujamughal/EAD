@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OX4/3MiEJF9HxP/9tbrtC1pe7dzmGHrKN8VxPHJ0BFJSMyvLpIdtrzc62ekLMCaBCOHDQQsM9n7NQjLbZ4N1Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Shuja\\Code Examples\\EAD\\61\\SyncVsAsync_Lec60\\SyncVsAsync_Lec60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
