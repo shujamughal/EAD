@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileUploadingWithAjax/1.0.0": {
+        "runtime": {
+          "FileUploadingWithAjax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileUploadingWithAjax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

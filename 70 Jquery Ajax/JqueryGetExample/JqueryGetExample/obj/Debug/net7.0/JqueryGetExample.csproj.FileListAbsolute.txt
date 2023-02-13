@@ -1,0 +1,62 @@
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\appsettings.Development.json
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\appsettings.json
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.staticwebassets.runtime.json
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.exe
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.deps.json
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.runtimeconfig.json
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.dll
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.pdb
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.csproj.AssemblyReference.cache
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.AssemblyInfoInputs.cache
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.AssemblyInfo.cs
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.csproj.CoreCompileInputs.cache
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.RazorAssemblyInfo.cache
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.RazorAssemblyInfo.cs
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets\msbuild.JqueryGetExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets\msbuild.build.JqueryGetExample.props
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JqueryGetExample.props
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JqueryGetExample.props
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets.build.json
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets.development.json
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\scopedcss\bundle\JqueryGetExample.styles.css
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\scopedcss\projectbundle\JqueryGetExample.bundle.scp.css
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.dll
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\refint\JqueryGetExample.dll
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.pdb
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.genruntimeconfig.cache
+C:\Shuja\ClassSession\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\ref\JqueryGetExample.dll
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\appsettings.Development.json
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\appsettings.json
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.staticwebassets.runtime.json
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.exe
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.deps.json
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.runtimeconfig.json
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.dll
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\bin\Debug\net7.0\JqueryGetExample.pdb
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.AssemblyInfo.cs
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.RazorAssemblyInfo.cache
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.RazorAssemblyInfo.cs
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets\msbuild.JqueryGetExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets\msbuild.build.JqueryGetExample.props
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JqueryGetExample.props
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JqueryGetExample.props
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets.build.json
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\staticwebassets.development.json
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\scopedcss\bundle\JqueryGetExample.styles.css
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\scopedcss\projectbundle\JqueryGetExample.bundle.scp.css
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.dll
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\refint\JqueryGetExample.dll
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.pdb
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\JqueryGetExample.genruntimeconfig.cache
+C:\Shuja\Code Examples\CodeExamples\JqueryGetExample\JqueryGetExample\obj\Debug\net7.0\ref\JqueryGetExample.dll

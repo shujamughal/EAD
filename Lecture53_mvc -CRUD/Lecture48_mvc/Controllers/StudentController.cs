@@ -8,7 +8,7 @@ namespace Lecture48_mvc.Controllers
 {
     public class StudentController : Controller
     {
-        public ViewResult Remove(int id)
+        public ViewResult Remove(int xyz)
         {
             Student s = StudentRepository.students.Find(s => s.Id == id);
             StudentRepository.students.Remove(s);

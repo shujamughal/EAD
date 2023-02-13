@@ -1,0 +1,65 @@
+﻿ @model  JqueryAjaxPostExample.Models.StudentModel
+
+@{
+    ViewData["Title"] = "CreateStudent";
+}
+
+<script type="text/javascript">
+    function submitStudent() {
+        var data = $("#studenteForm").serialize();
+        console.log(data);
+        //alert(data);
+        $.ajax({
+            type: 'POST',
+            url: '/Home/CreateStudent',
+            //contentType: 'application/x-www-form-urlencoded; charset=UTF-8', 
+            // when we use .serialize() 
+            // this generates the data in query string format. 
+            // this needs the default contentType 
+            // (default content type is: contentType: 'application/x-www-form-urlencoded; charset=UTF-8') 
+            // so it is optional, you can remove it
+            data: data,
+            success: function (result) {
+          //      alert('Successfully received Data ');
+                console.log(result);
+            },
+            error: function () {
+                alert('Failed to receive the Data');
+                console.log('Failed ');
+            }
+        })
+    }
+
+</script>
+
+<h4>Add Student Deatils- Controller</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form id="studenteForm" novalidate class="needs-validation">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" type="text" class="form-control" id="name" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" type="email" class="form-control" id="email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" type="number" class="form-control" id="phone" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="button" class="btn btn-primary" onclick="submitStudent()">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

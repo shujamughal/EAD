@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<span>Select File: </span>
+    <input type="file" id="postedFiles"  multiple/> 
+    <button type="button" onclick="uploadFiles();"  >Upload File</button>
+
+<span>@ViewBag.Message</span>
+<img id="img1" src="Uploads/@ViewBag.FileName"/>
+
+ <script>
+         function uploadFiles() {
+          var input = document.getElementById("postedFiles"); //get file input id
+          var files = input.files; //get files
+          var formData = new FormData(); //create form
+
+          for (var i = 0; i != files.length; i++) {
+            formData.append("files", files[i]); //loop through all files and append
+          }
+
+          $.ajax(
+            {
+              url: "/Home/AjaxUpload",
+              data: formData, // send it as formData
+              processData: false,// tell jQuery not to process the data
+              contentType: false,// tell jQuery not to set contentType
+              type: "POST", //type is post as we will need to post files
+              success: function (data) {
+                alert("Files Uploaded!"+data);
+              }
+            }
+          );
+        }
+     </script>

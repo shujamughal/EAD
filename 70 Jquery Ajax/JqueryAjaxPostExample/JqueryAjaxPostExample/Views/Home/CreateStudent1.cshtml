@@ -1,0 +1,62 @@
+﻿ @model  JqueryAjaxPostExample.Models.StudentModel
+
+@{
+    ViewData["Title"] = "CreateStudent1";
+}
+
+<script type="text/javascript">
+    function submitStudent() {
+        var data = {
+            Name: $("#name").val(),
+            Email: $("#email").val(),
+            Phone: $("#phone").val()
+        }
+        //console.log(data);
+        $.ajax({
+            type: 'POST',
+            url: '/Home/AddStudent',
+            contentType: 'application/json; charset=utf-8',
+            data: JSON.stringify(data),
+            success: function (result) {
+                alert('Successfully received Data ');
+                console.log(result);
+            },
+            error: function () {
+                alert('Failed to receive the Data');
+                console.log('Failed ');
+            }
+        })
+    }
+</script>
+
+<h4>Add Student Deatils using Ajax Post without Form Serialization</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form id="studenteForm" novalidate class="needs-validation">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" id="name" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" type="email" class="form-control" id="email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" id="phone" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="button" class="btn btn-primary" onclick="submitStudent()">Add </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
