@@ -31,7 +31,7 @@ namespace WebApplication1.Controllers
         [Route("find/{a}")]
         public Student GetById(int a)
         {
-            return repo.GetStudentById(id);
+            return repo.GetStudentById(a);
         }
 
         [HttpPost]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shuja\\Code Examples\\CodeExamples\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj": {}
+    "C:\\Shuja\\Code Examples\\EAD\\71 Dependency Injection\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj": {}
   },
   "projects": {
-    "C:\\Shuja\\Code Examples\\CodeExamples\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj": {
+    "C:\\Shuja\\Code Examples\\EAD\\71 Dependency Injection\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shuja\\Code Examples\\CodeExamples\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj",
+        "projectUniqueName": "C:\\Shuja\\Code Examples\\EAD\\71 Dependency Injection\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj",
         "projectName": "MVC6DIExample",
-        "projectPath": "C:\\Shuja\\Code Examples\\CodeExamples\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj",
+        "projectPath": "C:\\Shuja\\Code Examples\\EAD\\71 Dependency Injection\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj",
         "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Shuja\\Code Examples\\CodeExamples\\MVC6DIExample\\MVC6DIExample\\obj\\",
+        "outputPath": "C:\\Shuja\\Code Examples\\EAD\\71 Dependency Injection\\MVC6DIExample\\MVC6DIExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

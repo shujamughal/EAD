@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mSw2f8TIkyUNroh7mKY1wbqCeV1/qecHg4ySJk8LfPck52eJJsbAzPn3ha9euD51jqxML1hMEI8lsU2PL9aCVw==",
+  "dgSpecHash": "dafooEo9fEApFfaXbRgvppmlLrOAwh8tH8XDu0P437YZM5ANhVzlBj1Hk1VTQOF5y3b/2OYVfTX576WBssUC1w==",
   "success": true,
-  "projectFilePath": "C:\\Shuja\\Code Examples\\CodeExamples\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj",
+  "projectFilePath": "C:\\Shuja\\Code Examples\\EAD\\71 Dependency Injection\\MVC6DIExample\\MVC6DIExample\\MVC6DIExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

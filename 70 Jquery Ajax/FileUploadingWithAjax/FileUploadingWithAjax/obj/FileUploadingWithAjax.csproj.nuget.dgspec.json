@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shuja\\Code Examples\\CodeExamples\\FileUploadingWithAjax\\FileUploadingWithAjax\\FileUploadingWithAjax.csproj": {}
+    "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\FileUploadingWithAjax.csproj": {}
   },
   "projects": {
-    "C:\\Shuja\\Code Examples\\CodeExamples\\FileUploadingWithAjax\\FileUploadingWithAjax\\FileUploadingWithAjax.csproj": {
+    "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\FileUploadingWithAjax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shuja\\Code Examples\\CodeExamples\\FileUploadingWithAjax\\FileUploadingWithAjax\\FileUploadingWithAjax.csproj",
+        "projectUniqueName": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\FileUploadingWithAjax.csproj",
         "projectName": "FileUploadingWithAjax",
-        "projectPath": "C:\\Shuja\\Code Examples\\CodeExamples\\FileUploadingWithAjax\\FileUploadingWithAjax\\FileUploadingWithAjax.csproj",
+        "projectPath": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\FileUploadingWithAjax.csproj",
         "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Shuja\\Code Examples\\CodeExamples\\FileUploadingWithAjax\\FileUploadingWithAjax\\obj\\",
+        "outputPath": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

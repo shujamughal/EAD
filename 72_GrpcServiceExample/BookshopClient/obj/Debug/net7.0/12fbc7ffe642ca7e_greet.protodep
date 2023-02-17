@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Greet.cs \
+obj\Debug\net7.0\Protos/GreetGrpc.cs: Protos/greet.proto

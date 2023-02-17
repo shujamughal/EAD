@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3efHSa7Pa0BjEvlQkTT/Jx1puuDA4T5OgxovtJygiGnrL/fmJfSLmfPrCIm0sOd/vTBZB3lXeYgGuBChdJP0eA==",
+  "success": true,
+  "projectFilePath": "C:\\Shuja\\Code Examples\\CodeExamples\\GrpcServiceExample\\BookshopClient\\BookshopClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuja\\.nuget\\packages\\google.protobuf\\3.21.11\\google.protobuf.3.21.11.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\grpc.core.api\\2.50.0\\grpc.core.api.2.50.0.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\grpc.net.client\\2.50.0\\grpc.net.client.2.50.0.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\grpc.net.common\\2.50.0\\grpc.net.common.2.50.0.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\grpc.tools\\2.51.0\\grpc.tools.2.51.0.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\shuja\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
