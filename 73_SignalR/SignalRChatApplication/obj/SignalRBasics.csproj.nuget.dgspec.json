@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shuja\\Code Examples\\CodeExamples\\SignalR\\SignalRChatApplication\\SignalRBasics.csproj": {}
+    "C:\\Shuja\\Code Examples\\EAD\\73_SignalR\\SignalRChatApplication\\SignalRBasics.csproj": {}
   },
   "projects": {
-    "C:\\Shuja\\Code Examples\\CodeExamples\\SignalR\\SignalRChatApplication\\SignalRBasics.csproj": {
+    "C:\\Shuja\\Code Examples\\EAD\\73_SignalR\\SignalRChatApplication\\SignalRBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shuja\\Code Examples\\CodeExamples\\SignalR\\SignalRChatApplication\\SignalRBasics.csproj",
+        "projectUniqueName": "C:\\Shuja\\Code Examples\\EAD\\73_SignalR\\SignalRChatApplication\\SignalRBasics.csproj",
         "projectName": "SignalRBasics",
-        "projectPath": "C:\\Shuja\\Code Examples\\CodeExamples\\SignalR\\SignalRChatApplication\\SignalRBasics.csproj",
+        "projectPath": "C:\\Shuja\\Code Examples\\EAD\\73_SignalR\\SignalRChatApplication\\SignalRBasics.csproj",
         "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
-        "outputPath": "C:\\Shuja\\Code Examples\\CodeExamples\\SignalR\\SignalRChatApplication\\obj\\",
+        "outputPath": "C:\\Shuja\\Code Examples\\EAD\\73_SignalR\\SignalRChatApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

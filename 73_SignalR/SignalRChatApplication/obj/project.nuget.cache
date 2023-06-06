@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NzqKduMdEVC2kaszstriwoPVwStPBKyRW6X29O7CXVDobdZuwyg4iTtGnX/1cL0846xqttqB56LgOmHpzxsUCg==",
+  "dgSpecHash": "TkK1dfWwtSdHpwW6+sKnDiD3ENxBGAD8DBqdJ4SL596p7NQYUTZ8FHm8pREGKm9O4lpUEO6ZOwQYM4G5t4bqSg==",
   "success": true,
-  "projectFilePath": "C:\\Shuja\\Code Examples\\CodeExamples\\SignalR\\SignalRChatApplication\\SignalRBasics.csproj",
+  "projectFilePath": "C:\\Shuja\\Code Examples\\EAD\\73_SignalR\\SignalRChatApplication\\SignalRBasics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

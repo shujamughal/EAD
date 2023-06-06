@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MylrhoybPj9Oqij+YivYP2sPGNf0SzsXf3APZOdbpCAkqDoVplYb6mFNNh61DdDJsN9R+y/FDc7vixNo/Xfx0A==",
+  "dgSpecHash": "qCi6OwTAi5fY65TgzvoACa+EtxtcDA1Xse+xAKC4xQiQFraQDk7GJawVplxL7aHQ3l0vAwFvOxCWOlgu1J0wEg==",
   "success": true,
-  "projectFilePath": "C:\\Shuja\\Code Examples\\CodeExamples\\SignalR\\SignalRBasics\\SignalRBasics.csproj",
+  "projectFilePath": "C:\\Shuja\\Code Examples\\EAD\\73_SignalR\\SignalRBasics\\SignalRBasics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
