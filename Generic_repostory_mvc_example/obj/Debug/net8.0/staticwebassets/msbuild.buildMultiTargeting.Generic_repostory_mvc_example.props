@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Generic_repostory_mvc_example.props" />
+</Project>
