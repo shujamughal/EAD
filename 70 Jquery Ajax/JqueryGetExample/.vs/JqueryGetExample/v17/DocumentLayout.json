@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jquerygetexample\\jquerygetexample\\wwwroot\\js\\site2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|solutionrelative:jquerygetexample\\wwwroot\\js\\site2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jquerygetexample\\jquerygetexample\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|solutionrelative:jquerygetexample\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jquerygetexample\\jquerygetexample\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|solutionrelative:jquerygetexample\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jquerygetexample\\jquerygetexample\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|solutionrelative:jquerygetexample\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jquerygetexample\\jquerygetexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|solutionrelative:jquerygetexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jquerygetexample\\jquerygetexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B216C43C-5137-4E30-8102-F38510B532B9}|JqueryGetExample\\JqueryGetExample.csproj|solutionrelative:jquerygetexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "JqueryGetExample\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "JqueryGetExample\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-10T05:45:20.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\Program.cs",
+              "RelativeDocumentMoniker": "JqueryGetExample\\Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\Program.cs",
+              "RelativeToolTip": "JqueryGetExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:43:01.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "JqueryGetExample\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "JqueryGetExample\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:30:53.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site2.js",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\wwwroot\\js\\site2.js",
+              "RelativeDocumentMoniker": "JqueryGetExample\\wwwroot\\js\\site2.js",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\wwwroot\\js\\site2.js",
+              "RelativeToolTip": "JqueryGetExample\\wwwroot\\js\\site2.js",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-08T10:29:53.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "JqueryGetExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\Models\\Product.cs",
+              "RelativeToolTip": "JqueryGetExample\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:27:30.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "JqueryGetExample\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryGetExample\\JqueryGetExample\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "JqueryGetExample\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:27:04.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

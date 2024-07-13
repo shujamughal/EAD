@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JqueryGetExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad95a9758f625cd5062e364dd926a8f8a2f24e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("JqueryGetExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JqueryGetExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

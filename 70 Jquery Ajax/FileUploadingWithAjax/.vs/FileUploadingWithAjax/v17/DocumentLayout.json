@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B184A4-C9F5-49EA-8679-8A4E2D412C9A}|FileUploadingWithAjax\\FileUploadingWithAjax.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\fileuploadingwithajax\\fileuploadingwithajax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B184A4-C9F5-49EA-8679-8A4E2D412C9A}|FileUploadingWithAjax\\FileUploadingWithAjax.csproj|solutionrelative:fileuploadingwithajax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B184A4-C9F5-49EA-8679-8A4E2D412C9A}|FileUploadingWithAjax\\FileUploadingWithAjax.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\fileuploadingwithajax\\fileuploadingwithajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B184A4-C9F5-49EA-8679-8A4E2D412C9A}|FileUploadingWithAjax\\FileUploadingWithAjax.csproj|solutionrelative:fileuploadingwithajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FileUploadingWithAjax\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FileUploadingWithAjax\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:31:35.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileUploadingWithAjax\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\FileUploadingWithAjax\\FileUploadingWithAjax\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FileUploadingWithAjax\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-02-13T11:47:10.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

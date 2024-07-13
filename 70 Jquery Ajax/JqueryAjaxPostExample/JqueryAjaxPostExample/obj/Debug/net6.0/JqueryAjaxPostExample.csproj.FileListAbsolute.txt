@@ -55,3 +55,34 @@ C:\Shuja\Code Examples\CodeExamples\JqueryAjaxPostExample\JqueryAjaxPostExample\
 C:\Shuja\Code Examples\CodeExamples\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JqueryAjaxPostExample.props
 C:\Shuja\Code Examples\CodeExamples\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JqueryAjaxPostExample.props
 C:\Shuja\Code Examples\CodeExamples\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\bin\Debug\net6.0\appsettings.Development.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\bin\Debug\net6.0\appsettings.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\bin\Debug\net6.0\JqueryAjaxPostExample.staticwebassets.runtime.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\bin\Debug\net6.0\JqueryAjaxPostExample.exe
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\bin\Debug\net6.0\JqueryAjaxPostExample.deps.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\bin\Debug\net6.0\JqueryAjaxPostExample.runtimeconfig.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\bin\Debug\net6.0\JqueryAjaxPostExample.dll
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\bin\Debug\net6.0\JqueryAjaxPostExample.pdb
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.AssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.RazorAssemblyInfo.cache
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.RazorAssemblyInfo.cs
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.sourcelink.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets\msbuild.JqueryAjaxPostExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets\msbuild.build.JqueryAjaxPostExample.props
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JqueryAjaxPostExample.props
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JqueryAjaxPostExample.props
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\scopedcss\bundle\JqueryAjaxPostExample.styles.css
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\scopedcss\projectbundle\JqueryAjaxPostExample.bundle.scp.css
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.dll
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\refint\JqueryAjaxPostExample.dll
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.pdb
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\JqueryAjaxPostExample.genruntimeconfig.cache
+C:\Shuja\Code Examples\EAD\70 Jquery Ajax\JqueryAjaxPostExample\JqueryAjaxPostExample\obj\Debug\net6.0\ref\JqueryAjaxPostExample.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jqueryajaxpostexample\\jqueryajaxpostexample\\views\\home\\createstudent1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|solutionrelative:jqueryajaxpostexample\\views\\home\\createstudent1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jqueryajaxpostexample\\jqueryajaxpostexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|solutionrelative:jqueryajaxpostexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jqueryajaxpostexample\\jqueryajaxpostexample\\views\\home\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|solutionrelative:jqueryajaxpostexample\\views\\home\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jqueryajaxpostexample\\jqueryajaxpostexample\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|solutionrelative:jqueryajaxpostexample\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jqueryajaxpostexample\\jqueryajaxpostexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|solutionrelative:jqueryajaxpostexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jqueryajaxpostexample\\jqueryajaxpostexample\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|solutionrelative:jqueryajaxpostexample\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jqueryajaxpostexample\\jqueryajaxpostexample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|solutionrelative:jqueryajaxpostexample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|c:\\shuja\\code examples\\ead\\70 jquery ajax\\jqueryajaxpostexample\\jqueryajaxpostexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F2887D4-8F65-42FA-B67D-B6A321D86791}|JqueryAjaxPostExample\\JqueryAjaxPostExample.csproj|solutionrelative:jqueryajaxpostexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateStudent1.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Views\\Home\\CreateStudent1.cshtml",
+              "RelativeDocumentMoniker": "JqueryAjaxPostExample\\Views\\Home\\CreateStudent1.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Views\\Home\\CreateStudent1.cshtml*",
+              "RelativeToolTip": "JqueryAjaxPostExample\\Views\\Home\\CreateStudent1.cshtml*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:23:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateStudent.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Views\\Home\\CreateStudent.cshtml",
+              "RelativeDocumentMoniker": "JqueryAjaxPostExample\\Views\\Home\\CreateStudent.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Views\\Home\\CreateStudent.cshtml",
+              "RelativeToolTip": "JqueryAjaxPostExample\\Views\\Home\\CreateStudent.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:23:04.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JqueryAjaxPostExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JqueryAjaxPostExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:23:04.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JqueryAjaxPostExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JqueryAjaxPostExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBmwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:23:04.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "JqueryAjaxPostExample\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "JqueryAjaxPostExample\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-08T10:23:04.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JqueryAjaxPostExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JqueryAjaxPostExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:23:04.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "JqueryAjaxPostExample\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "JqueryAjaxPostExample\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:23:04.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "JqueryAjaxPostExample\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\EAD\\70 Jquery Ajax\\JqueryAjaxPostExample\\JqueryAjaxPostExample\\Models\\StudentModel.cs",
+              "RelativeToolTip": "JqueryAjaxPostExample\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:23:04.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
